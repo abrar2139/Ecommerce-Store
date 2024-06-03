@@ -15,7 +15,7 @@ import { FaFacebookF, FaInstagram, FaTwitter, FaWhatsapp } from "react-icons/fa"
             ></input>
             <button
               type="button"
-              className="ml-4 rounded-full bg-[olive] px-3 py-3 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[olive]"
+              className="ml-4 rounded-full bg-[olive] px-3 py-3 text-sm font-semibold text-white shadow-sm hover:bg-gray-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[olive]"
             >
               <ChevronRight className="h-4 w-4" />
             </button>
@@ -38,7 +38,7 @@ import { FaFacebookF, FaInstagram, FaTwitter, FaWhatsapp } from "react-icons/fa"
               <li className='cursor-pointer hover:text-[olive]'>Shop</li>
               <li className='cursor-pointer hover:text-[olive]'>About</li>
               <li className='cursor-pointer hover:text-[olive]'>Cart</li>
-              <li className='cursor-pointer hover:text-[olive]'>Cony</li>
+              <li className='cursor-pointer hover:text-[olive]'>Contact</li>
 
               </ul>
             </div>
