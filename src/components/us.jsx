@@ -100,4 +100,3 @@ const userSlice = createSlice({
 });
 export const {addToCart,getCartTotal,removeItem,increaseItemQuantity,decreaseItemQuantity} = userSlice.actions;
 
-// export default userSlice.reducer;

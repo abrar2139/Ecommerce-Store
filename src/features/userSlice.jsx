@@ -88,7 +88,7 @@ const userSlice = createSlice({
       })
       .addCase(rejected, (state, action) => {
         state.loading = false;
-        state.error = action.error.message; // Set error message from action
+        state.error = action.error.message; 
       });
   },
 });

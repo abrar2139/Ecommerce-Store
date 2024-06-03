@@ -43,7 +43,7 @@ const handleDelete = () =>{
             </div>
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2">
-              {/* Product List */}
+              
               <div className="px-1 sm:px-5 lg:px-8 xl:px-8 py-6 md:border-r md:border-r-gray-200 md:px-8">
                 <div className="flow-root">
                   <ul className="-my-7 divide-y divide-gray-200">
